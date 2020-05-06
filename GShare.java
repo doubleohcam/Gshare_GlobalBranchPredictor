@@ -1,14 +1,11 @@
 // Cameron Garretson
 // GShare Branch Predictor
 
-
 import java.util.*;
 import java.math.*;
 import java.io.*;
 import java.text.DecimalFormat;
 
-// This was created with the help of the
-// skeleton located in Webcourses
 public class GShare
 {
   private static DecimalFormat df2 = new DecimalFormat("#.##");
